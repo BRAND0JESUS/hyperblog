@@ -9,5 +9,6 @@ En este curso podemos ver de todo
 * El verdadero amor por las prácticas
 * Trucos muy locos del profesor
 * Las personalidades múltiples de Freddy
+* Creado por el increible Platzi Team
 
 Y como un amable recordatorio: **Este readme.md es un chiste**. Diseñado para el ejemplo. Si llegas acá NO TE LO TPOMES ENSERIO y mejor ve al [curso](https://platzi.com/clases/1557-git-github/19977-readmemd-es-una-excelente-practica/ "curso")
